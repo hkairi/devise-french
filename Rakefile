@@ -36,13 +36,13 @@ end
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |s|
-    s.name = "devise"
-    s.version = Devise::VERSION.dup
+    s.name = "devise-french"
+    s.version = "1.0.2"
     s.summary = "Flexible authentication solution for Rails with Warden"
-    s.email = "contact@plataformatec.com.br"
-    s.homepage = "http://github.com/plataformatec/devise"
+    s.email = "contact@plataformatec.com.br" 
+    s.homepage = "http://github.com/hkairi/devise"
     s.description = "Flexible authentication solution for Rails with Warden"
-    s.authors = ['José Valim', 'Carlos Antônio']
+    s.authors = ['José Valim', 'Carlos Antônio', 'Hassane Moustapha']
     s.files =  FileList["[A-Z]*", "{app,config,lib}/**/*"]
     s.extra_rdoc_files = FileList["[A-Z]*"] - %w(Gemfile Rakefile)
     s.add_dependency("warden", "~> 1.0.2")

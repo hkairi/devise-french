@@ -1,4 +1,4 @@
-1294576795
+1294577420
 ALL	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  ALL         =
 ActionDispatch	/home/hassane/ruby_apps/devise-1.1.5/test/support/webrat/integrations/rails.rb	module ActionDispatch 
 ActiveRecord	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/orm/active_record.rb	    module ActiveRecord
