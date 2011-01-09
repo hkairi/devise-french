@@ -1,0 +1,678 @@
+1294576795
+ALL	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  ALL         =
+ActionDispatch	/home/hassane/ruby_apps/devise-1.1.5/test/support/webrat/integrations/rails.rb	module ActionDispatch 
+ActiveRecord	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/orm/active_record.rb	    module ActiveRecord
+ActiveRecord	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/active_record/devise_generator.rb	module ActiveRecord
+ActiveRecordTest	/home/hassane/ruby_apps/devise-1.1.5/test/models_test.rb	class ActiveRecordTest 
+Admin	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/active_record/admin.rb	class Admin 
+Admin	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/mongoid/admin.rb	class Admin
+AdminsController	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/admins_controller.rb	class AdminsController 
+Application	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/config/application.rb	  class Application 
+ApplicationController	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/helpers/application_helper.rb	module ApplicationHelper
+Authenticatable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/authenticatable.rb	    module Authenticatable
+Authenticatable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	    class Authenticatable 
+AuthenticationOthersTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/authenticatable_test.rb	class AuthenticationOthersTest 
+AuthenticationRedirectTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/authenticatable_test.rb	class AuthenticationRedirectTest 
+AuthenticationSanityTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/authenticatable_test.rb	class AuthenticationSanityTest 
+AuthenticationSessionTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/authenticatable_test.rb	class AuthenticationSessionTest 
+AuthenticationWithScopesTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/authenticatable_test.rb	class AuthenticationWithScopesTest 
+AuthlogicSha512	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/authlogic_sha512.rb	    class AuthlogicSha512 
+Base	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/base.rb	    class Base
+Base	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/base.rb	    class Base 
+Bcrypt	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/bcrypt.rb	    class Bcrypt 
+CONTROLLERS	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  CONTROLLERS =
+ClassMethods	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/scoped_views.rb	      module ClassMethods
+ClassMethods	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/authenticatable.rb	      module ClassMethods
+ClassMethods	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	      module ClassMethods
+ClassMethods	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	      module ClassMethods
+ClassMethods	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	      module ClassMethods
+ClassMethods	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/recoverable.rb	      module ClassMethods
+ClassMethods	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	      module ClassMethods
+ClassMethods	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/timeoutable.rb	      module ClassMethods
+ClassMethods	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/token_authenticatable.rb	      module ClassMethods
+ClassMethods	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/validatable.rb	      module ClassMethods
+ClassMethods	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/mongoid/shim.rb	  module ClassMethods
+ClearanceSha1	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/clearance_sha1.rb	    class ClearanceSha1 
+Common	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	module Warden::Mixins::Common
+Configurable	/home/hassane/ruby_apps/devise-1.1.5/test/models_test.rb	class Configurable 
+Confirmable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	    module Confirmable
+ConfirmableTest	/home/hassane/ruby_apps/devise-1.1.5/test/models/confirmable_test.rb	class ConfirmableTest 
+ConfirmationInstructionsTest	/home/hassane/ruby_apps/devise-1.1.5/test/mailers/confirmation_instructions_test.rb	class ConfirmationInstructionsTest 
+ConfirmationTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/confirmable_test.rb	class ConfirmationTest 
+ConfirmationsController	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/confirmations_controller.rb	class Devise::ConfirmationsController 
+ControllerAuthenticableTest	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/helpers_test.rb	class ControllerAuthenticableTest 
+Controllers	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  module Controllers
+Controllers	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	  module Controllers
+Controllers	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	  module Controllers
+Controllers	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/scoped_views.rb	  module Controllers
+Controllers	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/url_helpers.rb	  module Controllers
+CreateTables	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/db/migrate/20100401102949_create_tables.rb	class CreateTables 
+CustomizedRoutingTest	/home/hassane/ruby_apps/devise-1.1.5/test/routes_test.rb	class CustomizedRoutingTest 
+DEVISE_ORM	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/config/boot.rb	  DEVISE_ORM =
+DEVISE_ORM	/home/hassane/ruby_apps/devise-1.1.5/test/test_helper.rb	DEVISE_ORM =
+DatabaseAuthenticatable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	    module DatabaseAuthenticatable
+DatabaseAuthenticatable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/database_authenticatable.rb	    class DatabaseAuthenticatable 
+DatabaseAuthenticatableTest	/home/hassane/ruby_apps/devise-1.1.5/test/models/database_authenticatable_test.rb	class DatabaseAuthenticatableTest 
+DatabaseAuthenticationTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/database_authenticatable_test.rb	class DatabaseAuthenticationTest 
+DefaultRoutingTest	/home/hassane/ruby_apps/devise-1.1.5/test/routes_test.rb	class DefaultRoutingTest 
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/scoped_views.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/url_helpers.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/authlogic_sha512.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/base.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/bcrypt.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/clearance_sha1.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/restful_authentication_sha1.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/sha1.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/sha512.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/hooks/rememberable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/authenticatable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/recoverable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/registerable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/timeoutable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/token_authenticatable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/trackable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/validatable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/orm/active_record.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/orm/mongoid.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/path_checker.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/schema.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/base.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/database_authenticatable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/rememberable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/token_authenticatable.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/test_helpers.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/version.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/devise_generator.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/install_generator.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/orm_helpers.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/views_generator.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/test/devise_test.rb	module Devise
+Devise	/home/hassane/ruby_apps/devise-1.1.5/test/support/test_silencer.rb	module Devise
+DeviseCreate	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/active_record/templates/migration.rb	class DeviseCreate<
+DeviseGenerator	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/active_record/devise_generator.rb	    class DeviseGenerator 
+DeviseGenerator	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/devise_generator.rb	    class DeviseGenerator 
+DeviseGenerator	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/mongoid/devise_generator.rb	    class DeviseGenerator 
+DeviseHelper	/home/hassane/ruby_apps/devise-1.1.5/app/helpers/devise_helper.rb	module DeviseHelper
+DeviseTest	/home/hassane/ruby_apps/devise-1.1.5/test/devise_test.rb	class DeviseTest 
+ENCRYPTORS_LENGTH	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  ENCRYPTORS_LENGTH =
+Encryptors	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  module Encryptors
+Encryptors	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/authlogic_sha512.rb	  module Encryptors
+Encryptors	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/base.rb	  module Encryptors
+Encryptors	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/bcrypt.rb	  module Encryptors
+Encryptors	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/clearance_sha1.rb	  module Encryptors
+Encryptors	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/restful_authentication_sha1.rb	  module Encryptors
+Encryptors	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/sha1.rb	  module Encryptors
+Encryptors	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/sha512.rb	  module Encryptors
+Encryptors	/home/hassane/ruby_apps/devise-1.1.5/test/encryptors_test.rb	class Encryptors 
+Engine	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails.rb	  class Engine 
+FailureApp	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	  class FailureApp 
+FailureTest	/home/hassane/ruby_apps/devise-1.1.5/test/failure_app_test.rb	class FailureTest 
+FakeRequest	/home/hassane/ruby_apps/devise-1.1.5/test/mapping_test.rb	class FakeRequest 
+Generators	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/active_record/devise_generator.rb	  module Generators
+Generators	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/devise_generator.rb	  module Generators
+Generators	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/install_generator.rb	  module Generators
+Generators	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/orm_helpers.rb	  module Generators
+Generators	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/views_generator.rb	  module Generators
+Generators	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/mongoid/devise_generator.rb	  module Generators
+Helpers	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	    module Helpers
+HelpersTest	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/internal_helpers_test.rb	class HelpersTest 
+HomeController	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/home_controller.rb	class HomeController 
+Hook	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/orm/mongoid.rb	      module Hook
+Hooks	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/hooks/rememberable.rb	  module Hooks
+HttpAuthenticationTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/http_authenticatable_test.rb	class HttpAuthenticationTest 
+IndifferentHash	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	  class Devise::IndifferentHash 
+IndifferentHashTest	/home/hassane/ruby_apps/devise-1.1.5/test/indifferent_hash.rb	class IndifferentHashTest 
+Inheritable	/home/hassane/ruby_apps/devise-1.1.5/test/models_test.rb	class Inheritable 
+InstallGenerator	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/install_generator.rb	    class InstallGenerator 
+IntegrationTest	/home/hassane/ruby_apps/devise-1.1.5/test/support/integration.rb	class ActionDispatch::IntegrationTest
+InternalHelpers	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	    module InternalHelpers 
+LockTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/lockable_test.rb	class LockTest 
+Lockable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	    module Lockable
+LockableTest	/home/hassane/ruby_apps/devise-1.1.5/test/models/lockable_test.rb	class LockableTest 
+Mailer	/home/hassane/ruby_apps/devise-1.1.5/app/mailers/devise/mailer.rb	class Devise::Mailer 
+Mapper	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	  class Mapper
+Mapping	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	  class Mapping 
+MappingTest	/home/hassane/ruby_apps/devise-1.1.5/test/mapping_test.rb	class MappingTest 
+MockController	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/helpers_test.rb	class MockController 
+Models	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models.rb	  module Models
+Models	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/authenticatable.rb	  module Models
+Models	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	  module Models
+Models	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	  module Models
+Models	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	  module Models
+Models	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/recoverable.rb	  module Models
+Models	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/registerable.rb	  module Models
+Models	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	  module Models
+Models	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/timeoutable.rb	  module Models
+Models	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/token_authenticatable.rb	  module Models
+Models	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/trackable.rb	  module Models
+Models	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/validatable.rb	  module Models
+Mongoid	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/orm/mongoid.rb	    module Mongoid
+Mongoid	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/mongoid/devise_generator.rb	module Mongoid
+MyController	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/internal_helpers_test.rb	class MyController 
+Orm	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/orm/active_record.rb	  module Orm
+Orm	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/orm/mongoid.rb	  module Orm
+OrmHelpers	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/orm_helpers.rb	    module OrmHelpers
+PasswordTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/recoverable_test.rb	class PasswordTest 
+PasswordsController	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/passwords_controller.rb	class Devise::PasswordsController 
+PathChecker	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/path_checker.rb	  class PathChecker
+ROUTES	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  ROUTES      =
+RailsApp	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/config/application.rb	module RailsApp
+Recoverable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/recoverable.rb	    module Recoverable
+RecoverableTest	/home/hassane/ruby_apps/devise-1.1.5/test/models/recoverable_test.rb	class RecoverableTest 
+Registerable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/registerable.rb	    module Registerable
+RegistrationTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/registerable_test.rb	class RegistrationTest 
+RegistrationsController	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/registrations_controller.rb	class Devise::RegistrationsController 
+RegistrationsController	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/publisher/registrations_controller.rb	class Publisher::RegistrationsController 
+RememberMeTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/rememberable_test.rb	class RememberMeTest 
+Rememberable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/hooks/rememberable.rb	    module Rememberable 
+Rememberable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	    module Rememberable
+Rememberable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/rememberable.rb	    class Rememberable 
+RememberableTest	/home/hassane/ruby_apps/devise-1.1.5/test/models/rememberable_test.rb	class RememberableTest 
+Request	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	  class ActionDispatch::Request
+ResetPasswordInstructionsTest	/home/hassane/ruby_apps/devise-1.1.5/test/mailers/reset_password_instructions_test.rb	class ResetPasswordInstructionsTest 
+RestfulAuthenticationSha1	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/restful_authentication_sha1.rb	    class RestfulAuthenticationSha1 
+RouteSet	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	  class RouteSet 
+RoutesTest	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/url_helpers_test.rb	class RoutesTest 
+Routing	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	module ActionDispatch::Routing
+STRATEGIES	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  STRATEGIES  =
+Schema	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/orm/active_record.rb	      module Schema
+Schema	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/orm/mongoid.rb	      module Schema
+Schema	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/schema.rb	  module Schema
+ScopedRoutingTest	/home/hassane/ruby_apps/devise-1.1.5/test/routes_test.rb	class ScopedRoutingTest 
+ScopedViews	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/scoped_views.rb	    module ScopedViews
+SessionSerializer	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	class Warden::SessionSerializer
+SessionTimeoutTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/timeoutable_test.rb	class SessionTimeoutTest 
+SessionsController	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/sessions_controller.rb	class Devise::SessionsController 
+SessionsController	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/publisher/sessions_controller.rb	class Publisher::SessionsController 
+SessionsController	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/sessions_controller.rb	class SessionsController 
+Sha1	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/sha1.rb	    class Sha1 
+Sha512	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/sha512.rb	    class Sha512 
+Shim	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/active_record/shim.rb	module Shim
+Shim	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/mongoid/shim.rb	module Shim
+Strategies	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  module Strategies
+Strategies	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	  module Strategies
+Strategies	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/base.rb	  module Strategies
+Strategies	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/database_authenticatable.rb	  module Strategies
+Strategies	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/rememberable.rb	  module Strategies
+Strategies	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/token_authenticatable.rb	  module Strategies
+TRUE_VALUES	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  TRUE_VALUES =
+TestCase	/home/hassane/ruby_apps/devise-1.1.5/test/orm/active_record.rb	class ActiveSupport::TestCase
+TestCase	/home/hassane/ruby_apps/devise-1.1.5/test/orm/mongoid.rb	class ActiveSupport::TestCase
+TestCase	/home/hassane/ruby_apps/devise-1.1.5/test/support/assertions.rb	class ActiveSupport::TestCase
+TestCase	/home/hassane/ruby_apps/devise-1.1.5/test/support/helpers.rb	class ActiveSupport::TestCase
+TestHelpers	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/test_helpers.rb	  module TestHelpers
+TestHelpersTest	/home/hassane/ruby_apps/devise-1.1.5/test/test_helpers_test.rb	class TestHelpersTest 
+TestSilencer	/home/hassane/ruby_apps/devise-1.1.5/test/support/test_silencer.rb	  module TestSilencer
+TestWarden	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/test_helpers.rb	    class TestWarden 
+Timeoutable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/timeoutable.rb	    module Timeoutable
+TimeoutableTest	/home/hassane/ruby_apps/devise-1.1.5/test/models/timeoutable_test.rb	class TimeoutableTest 
+TokenAuthenticatable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/token_authenticatable.rb	    module TokenAuthenticatable
+TokenAuthenticatable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/token_authenticatable.rb	    class TokenAuthenticatable 
+TokenAuthenticatableTest	/home/hassane/ruby_apps/devise-1.1.5/test/models/token_authenticatable_test.rb	class TokenAuthenticatableTest 
+TokenAuthenticationTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/token_authenticatable_test.rb	class TokenAuthenticationTest 
+Trackable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/trackable.rb	    module Trackable
+TrackableHooksTest	/home/hassane/ruby_apps/devise-1.1.5/test/integration/trackable_test.rb	class TrackableHooksTest 
+TrackableTest	/home/hassane/ruby_apps/devise-1.1.5/test/models/trackable_test.rb	class TrackableTest 
+UnlockInstructionsTest	/home/hassane/ruby_apps/devise-1.1.5/test/mailers/unlock_instructions_test.rb	class UnlockInstructionsTest 
+UnlocksController	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/unlocks_controller.rb	class Devise::UnlocksController 
+UrlHelpers	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/url_helpers.rb	    module UrlHelpers
+User	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/active_record/user.rb	class User 
+User	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/mongoid/user.rb	class User
+UsersController	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/users_controller.rb	class UsersController 
+VALIDATIONS	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/validatable.rb	      VALIDATIONS =
+VALID_AUTHENTICATION_TOKEN	/home/hassane/ruby_apps/devise-1.1.5/test/support/helpers.rb	  VALID_AUTHENTICATION_TOKEN =
+VERSION	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/version.rb	  VERSION =
+Validatable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/validatable.rb	    module Validatable
+ValidatableTest	/home/hassane/ruby_apps/devise-1.1.5/test/models/validatable_test.rb	class ValidatableTest 
+ViewsGenerator	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/views_generator.rb	    class ViewsGenerator 
+Webrat	/home/hassane/ruby_apps/devise-1.1.5/test/support/webrat/integrations/rails.rb	module Webrat
+accept	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/users_controller.rb	  def accept
+access_locked?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	      def access_locked?
+active?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/authenticatable.rb	      def active?
+active?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	      def active?
+active?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	      def active?
+add_devise_routes	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/devise_generator.rb	      def add_devise_routes
+add_mapping	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  def self.add_mapping(resource, options)
+add_module	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  def self.add_module(module_name, options = {})
+add_module	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    def self.add_module(m)
+add_oauth2_header	/home/hassane/ruby_apps/devise-1.1.5/test/integration/http_authenticatable_test.rb	    def add_oauth2_header
+after_database_authentication	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	      def after_database_authentication
+after_sign_in_path_for	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	      def after_sign_in_path_for(resource_or_scope)
+after_sign_out_path_for	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	      def after_sign_out_path_for(resource_or_scope)
+after_sign_out_path_for	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/helpers_test.rb	    @controller.instance_eval "def after_sign_out_path_for(resource); 
+after_token_authentication	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/token_authenticatable.rb	      def after_token_authentication
+after_update_path_for	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	      def after_update_path_for(resource_or_scope)
+anybody_signed_in?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	      def anybody_signed_in?
+apply_devise_schema	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/orm/active_record.rb	        def apply_devise_schema(name, type, options={})
+apply_devise_schema	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/orm/mongoid.rb	        def apply_devise_schema(name, type, options={})
+apply_devise_schema	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/schema.rb	    def apply_devise_schema(name, type, options={})
+apply_schema	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :apply_schema
+as	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	    alias :as
+assert_blank	/home/hassane/ruby_apps/devise-1.1.5/test/support/assertions.rb	  def assert_blank(assertion)
+assert_current_url	/home/hassane/ruby_apps/devise-1.1.5/test/support/integration.rb	  def assert_current_url(expected)
+assert_email_not_sent	/home/hassane/ruby_apps/devise-1.1.5/test/support/assertions.rb	  def assert_email_not_sent(&block)
+assert_email_sent	/home/hassane/ruby_apps/devise-1.1.5/test/support/assertions.rb	  def assert_email_sent(&block)
+assert_include_modules	/home/hassane/ruby_apps/devise-1.1.5/test/models_test.rb	  def assert_include_modules(klass, *modules)
+assert_named_route	/home/hassane/ruby_apps/devise-1.1.5/test/routes_test.rb	  def assert_named_route(result, name)
+assert_not	/home/hassane/ruby_apps/devise-1.1.5/test/support/assertions.rb	  def assert_not(assertion)
+assert_not_blank	/home/hassane/ruby_apps/devise-1.1.5/test/support/assertions.rb	  def assert_not_blank(assertion)
+assert_path_and_url	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/url_helpers_test.rb	  def assert_path_and_url(name, prepend_path=nil)
+assert_present	/home/hassane/ruby_apps/devise-1.1.5/test/support/assertions.rb	  alias :assert_present
+assert_redirected_to	/home/hassane/ruby_apps/devise-1.1.5/test/support/integration.rb	  def assert_redirected_to(url)
+assert_url	/home/hassane/ruby_apps/devise-1.1.5/test/support/integration.rb	  def assert_url(expected, actual)
+assert_validations_api!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/validatable.rb	      def self.assert_validations_api!(base) 
+attempted_path	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def attempted_path
+attempts_exceeded?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	        def attempts_exceeded?
+authenticatable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/schema.rb	    def authenticatable(*args)
+authenticatable?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    def authenticatable?
+authenticatable_name	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def authenticatable_name
+authenticate	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	    def authenticate(scope)
+authenticate!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/database_authenticatable.rb	      def authenticate!
+authenticate!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/rememberable.rb	      def authenticate!
+authenticate!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/token_authenticatable.rb	      def authenticate!
+authenticate!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/test_helpers.rb	      def authenticate!(*args)
+authenticate_scope!	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/registrations_controller.rb	    def authenticate_scope!
+authentication_hash	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      attr_accessor :authentication_hash, :password
+authentication_keys	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :authentication_keys
+authentication_keys	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def authentication_keys
+authentication_keys	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/token_authenticatable.rb	      def authentication_keys
+authentication_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/token_authenticatable.rb	        def authentication_token
+build_resource	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	      def build_resource(hash=nil)
+call	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def self.call(env)
+call_failure	/home/hassane/ruby_apps/devise-1.1.5/test/failure_app_test.rb	  def call_failure(env_params={})
+catch_with_redirect	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/test_helpers.rb	      def catch_with_redirect(&block)
+class_name	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    attr_reader :singular, :plural, :path, :controllers, :path_names, :class_name
+clean_up_passwords	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	      def clean_up_passwords(object)
+clean_up_passwords	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	      def clean_up_passwords
+clear_reset_password_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/recoverable.rb	        def clear_reset_password_token
+config	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models.rb	    def self.config(mod, *accessors) 
+configure_warden!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  def self.configure_warden! 
+confirm!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	      def confirm!
+confirm_by_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	        def confirm_by_token(confirmation_token)
+confirm_within	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :confirm_within
+confirmable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/schema.rb	    def confirmable
+confirmation_instructions	/home/hassane/ruby_apps/devise-1.1.5/app/mailers/devise/mailer.rb	  def confirmation_instructions(record)
+confirmation_period_valid?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	        def confirmation_period_valid?
+confirmation_required?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	        def confirmation_required?
+confirmation_required?	/home/hassane/ruby_apps/devise-1.1.5/test/models/confirmable_test.rb	    user.instance_eval { def confirmation_required?; 
+confirmation_required?	/home/hassane/ruby_apps/devise-1.1.5/test/models/confirmable_test.rb	    user.instance_eval { def confirmation_required?; 
+confirmation_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	        def confirmation_token
+confirmed?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	      def confirmed?
+context	/home/hassane/ruby_apps/devise-1.1.5/test/failure_app_test.rb	  def self.context(name, &block)
+controller	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/test_helpers.rb	      attr_reader :controller
+controllers	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    attr_reader :singular, :plural, :path, :controllers, :path_names, :class_name
+convert_key	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    def convert_key(key)
+cookie_domain	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :cookie_domain
+cookie_domain	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	      def cookie_domain
+cookie_domain?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	      def cookie_domain?
+cookie_expires	/home/hassane/ruby_apps/devise-1.1.5/test/integration/rememberable_test.rb	  def cookie_expires(key)
+cookies	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	  def cookies
+copy_devise_migration	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/active_record/devise_generator.rb	      def copy_devise_migration
+copy_initializer	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/install_generator.rb	      def copy_initializer
+copy_locale	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/install_generator.rb	      def copy_locale
+copy_views	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/views_generator.rb	      def copy_views
+create	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/confirmations_controller.rb	  def create
+create	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/passwords_controller.rb	  def create
+create	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/registrations_controller.rb	  def create
+create	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/sessions_controller.rb	  def create
+create	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/unlocks_controller.rb	  def create
+create_admin	/home/hassane/ruby_apps/devise-1.1.5/test/support/helpers.rb	  def create_admin(attributes={})
+create_admin	/home/hassane/ruby_apps/devise-1.1.5/test/support/integration.rb	  def create_admin(options={})
+create_and_copy_haml_views	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/views_generator.rb	      def create_and_copy_haml_views
+create_user	/home/hassane/ruby_apps/devise-1.1.5/test/support/helpers.rb	  def create_user(attributes={})
+create_user	/home/hassane/ruby_apps/devise-1.1.5/test/support/integration.rb	  def create_user(options={})
+create_user_and_remember	/home/hassane/ruby_apps/devise-1.1.5/test/integration/rememberable_test.rb	  def create_user_and_remember(add_to_token='')
+current_password	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	        attr_reader :password, :current_password
+database_authenticatable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/schema.rb	    def database_authenticatable(options={})
+decode_credentials	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def decode_credentials
+default_scope	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :default_scope
+default_url_options	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def self.default_url_options(*args)
+default_url_options	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/path_checker.rb	    def self.default_url_options(*args)
+delete	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    def delete(key)
+deserialize	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	  def deserialize(keys)
+destroy	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/registrations_controller.rb	  def destroy
+destroy	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/sessions_controller.rb	  def destroy
+devise	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models.rb	    def devise(*modules)
+devise_confirmation	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	      def devise_confirmation(mapping, controllers) 
+devise_controller?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	      def devise_controller?
+devise_controller?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	      def devise_controller?
+devise_error_messages!	/home/hassane/ruby_apps/devise-1.1.5/app/helpers/devise_helper.rb	  def devise_error_messages!
+devise_for	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	    def devise_for(*resources)
+devise_mapping	/home/hassane/ruby_apps/devise-1.1.5/app/mailers/devise/mailer.rb	  attr_reader :devise_mapping, :resource
+devise_mapping	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	                     resource_class devise_mapping 
+devise_mapping	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	      def devise_mapping
+devise_modules_hook!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models.rb	    def devise_modules_hook!
+devise_modules_hook!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/orm/mongoid.rb	        def devise_modules_hook!
+devise_password	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	      def devise_password(mapping, controllers) 
+devise_registration	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	      def devise_registration(mapping, controllers) 
+devise_scope	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	    def devise_scope(scope)
+devise_session	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	      def devise_session(mapping, controllers) 
+devise_unlock	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	      def devise_unlock(mapping, controllers) 
+digest	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/authlogic_sha512.rb	      def self.digest(password, stretches, salt, pepper)
+digest	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/base.rb	      def self.digest
+digest	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/bcrypt.rb	      def self.digest(password, stretches, salt, pepper)
+digest	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/clearance_sha1.rb	      def self.digest(password, stretches, salt, pepper)
+digest	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/restful_authentication_sha1.rb	      def self.digest(password, stretches, salt, pepper)
+digest	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/sha1.rb	      def self.digest(password, stretches, salt, pepper)
+digest	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/sha512.rb	      def self.digest(password, stretches, salt, pepper)
+down	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/active_record/templates/migration.rb	  def self.down
+down	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/db/migrate/20100401102949_create_tables.rb	  def self.down
+edit	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/passwords_controller.rb	  def edit
+edit	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/registrations_controller.rb	  def edit
+email_regexp	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :email_regexp
+encrypt_password	/home/hassane/ruby_apps/devise-1.1.5/test/models/database_authenticatable_test.rb	  def encrypt_password(user, pepper=User.pepper, stretches=User.stretches, encryptor=User.encryptor_class)
+encryptor	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :encryptor
+encryptor_class	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	        def encryptor_class
+ensure_authentication_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/token_authenticatable.rb	      def ensure_authentication_token
+ensure_authentication_token!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/token_authenticatable.rb	      def ensure_authentication_token!
+env	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/helpers_test.rb	  attr_accessor :env
+expire	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/users_controller.rb	  def expire
+extend_remember_period	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :extend_remember_period
+extend_remember_period?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/hooks/rememberable.rb	      def extend_remember_period?
+extend_remember_period?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/rememberable.rb	      def extend_remember_period?
+fake_request	/home/hassane/ruby_apps/devise-1.1.5/test/mapping_test.rb	  def fake_request(path, params={})
+fetch	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    def fetch(key, *extras)
+finalize_with_devise!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	    def finalize_with_devise!
+find_for_authentication	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/authenticatable.rb	        def find_for_authentication(conditions)
+find_for_database_authentication	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	        def find_for_database_authentication(conditions)
+find_for_token_authentication	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/token_authenticatable.rb	        def find_for_token_authentication(conditions)
+find_or_initialize_with_error_by	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/authenticatable.rb	        def find_or_initialize_with_error_by(attribute, value, error=:invalid) 
+find_scope!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    def self.find_scope!(duck)
+forget_me!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	      def forget_me!
+friendly_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  def self.friendly_token
+from	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/internal_helpers_test.rb	  test 'get resource class from 
+fullpath	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    def fullpath
+generate_confirmation_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	        def generate_confirmation_token
+generate_confirmation_token!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	        def generate_confirmation_token!
+generate_model	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/active_record/devise_generator.rb	      def generate_model
+generate_model	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/mongoid/devise_generator.rb	      def generate_model
+generate_remember_timestamp?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	      def generate_remember_timestamp?(extend_period) 
+generate_remember_token?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	      def generate_remember_token? 
+generate_reset_password_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/recoverable.rb	        def generate_reset_password_token
+generate_reset_password_token!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/recoverable.rb	        def generate_reset_password_token!
+generate_signed_cookie	/home/hassane/ruby_apps/devise-1.1.5/test/integration/rememberable_test.rb	  def generate_signed_cookie(raw_cookie)
+generate_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/authenticatable.rb	        def generate_token(column)
+generate_unique_email	/home/hassane/ruby_apps/devise-1.1.5/test/support/helpers.rb	  def generate_unique_email
+generate_unlock_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	        def generate_unlock_token
+has_key?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    alias_method :has_key?
+host_with_port	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/helpers_test.rb	  def host_with_port
+http_auth	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def http_auth
+http_auth?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def http_auth?
+http_auth_body	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def http_auth_body
+http_auth_hash	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def http_auth_hash
+http_authenticatable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :http_authenticatable
+http_authenticatable?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/authenticatable.rb	        def http_authenticatable?(strategy)
+http_authenticatable?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def http_authenticatable?
+http_authenticatable_on_xhr	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :http_authenticatable_on_xhr
+http_authentication_realm	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :http_authentication_realm
+i18n_message	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def i18n_message(default = nil)
+if_access_locked	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	        def if_access_locked
+inactive_message	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/authenticatable.rb	      def inactive_message
+inactive_message	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	      def inactive_message
+inactive_message	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	      def inactive_message
+include?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    alias_method :include?
+include_module?	/home/hassane/ruby_apps/devise-1.1.5/test/models_test.rb	  def include_module?(klass, mod)
+included	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/validatable.rb	      def self.included(base)
+included	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/test_helpers.rb	    def self.included(base)
+index	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/helpers_test.rb	  def index
+index	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/admins_controller.rb	  def index
+index	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/home_controller.rb	  def index
+index	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/users_controller.rb	  def index
+initialize	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    def initialize(name, options) 
+initialize	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/path_checker.rb	    def initialize(env, scope)
+initialize	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/test_helpers.rb	      def initialize(controller)
+inject_devise_content	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/active_record/devise_generator.rb	      def inject_devise_content
+inject_devise_content	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/mongoid/devise_generator.rb	      def inject_devise_content
+is	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models.rb	        ActiveSupport::Deprecation.warn ":activatable as module is 
+is	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models.rb	        ActiveSupport::Deprecation.warn ":authenticatable as module is 
+is	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models.rb	        ActiveSupport::Deprecation.warn ":http_authenticatable as module is 
+is	/home/hassane/ruby_apps/devise-1.1.5/test/integration/authenticatable_test.rb	  test 'does not explode when invalid user class is 
+is_devise_resource?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	      def is_devise_resource? 
+key?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    def key?(key)
+last	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/mongoid/shim.rb	    def last(options={})
+last_request_at	/home/hassane/ruby_apps/devise-1.1.5/test/integration/timeoutable_test.rb	  def last_request_at
+lock_access!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	      def lock_access!
+lock_expired?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	        def lock_expired?
+lock_strategy	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :lock_strategy
+lock_strategy_enabled?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	        def lock_strategy_enabled?(strategy)
+lockable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/schema.rb	    def lockable(options={})
+mail	/home/hassane/ruby_apps/devise-1.1.5/test/mailers/confirmation_instructions_test.rb	  def mail
+mail	/home/hassane/ruby_apps/devise-1.1.5/test/mailers/reset_password_instructions_test.rb	  def mail
+mail	/home/hassane/ruby_apps/devise-1.1.5/test/mailers/unlock_instructions_test.rb	  def mail
+mailer	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  def self.mailer
+mailer=	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  def self.mailer=(class_name)
+mailer_sender	/home/hassane/ruby_apps/devise-1.1.5/app/mailers/devise/mailer.rb	  def mailer_sender(mapping)
+mailer_sender	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :mailer_sender
+mapping	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/base.rb	      def mapping
+mappings	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :mappings
+maximum_attempts	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :maximum_attempts
+member?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    alias_method :member?
+merge	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    def merge(hash)
+merge!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    alias_method :merge!
+model_contents	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/orm_helpers.rb	      def model_contents
+model_exists?	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/orm_helpers.rb	      def model_exists?
+model_path	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/orm_helpers.rb	      def model_path
+module_name	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	    Devise::Mapping.add_module module_name
+modules	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    def modules
+name	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    alias :name
+navigational_formats	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :navigational_formats
+new	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/confirmations_controller.rb	  def new
+new	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/passwords_controller.rb	  def new
+new	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/registrations_controller.rb	  def new
+new	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/sessions_controller.rb	  def new
+new	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/unlocks_controller.rb	  def new
+new	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/sessions_controller.rb	  def new
+new_user	/home/hassane/ruby_apps/devise-1.1.5/test/support/helpers.rb	  def new_user(attributes={})
+params_auth_hash	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def params_auth_hash
+params_auth_hash	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/token_authenticatable.rb	      def params_auth_hash
+params_authenticatable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :params_authenticatable
+params_authenticatable?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/authenticatable.rb	        def params_authenticatable?(strategy)
+params_authenticatable?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def params_authenticatable?
+parse_rails_request_params	/home/hassane/ruby_apps/devise-1.1.5/test/support/webrat/integrations/rails.rb	    def self.parse_rails_request_params(params)
+password	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	        attr_reader :password, :current_password
+password	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      attr_accessor :authentication_hash, :password
+password=	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	      def password=(new_password)
+password_confirmation	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	        attr_accessor :password_confirmation
+password_digest	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	      def password_digest(password)
+password_length	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :password_length
+password_required?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/validatable.rb	      def password_required?
+password_salt	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	        def password_salt
+path	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    attr_reader :singular, :plural, :path, :controllers, :path_names, :class_name
+path	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/helpers_test.rb	  def path
+path_names	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    attr_reader :singular, :plural, :path, :controllers, :path_names, :class_name
+pepper	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :pepper
+plural	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    attr_reader :singular, :plural, :path, :controllers, :path_names, :class_name
+prepend_host	/home/hassane/ruby_apps/devise-1.1.5/test/support/integration.rb	    def prepend_host(url)
+private	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/app/controllers/home_controller.rb	  def private
+protocol	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/helpers_test.rb	  def protocol
+rack_session?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  def self.rack_session?
+raise_no_devise_method_error!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	      def raise_no_devise_method_error!(klass) 
+recall	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def recall
+recall_controller	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def recall_controller
+recoverable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/schema.rb	    def recoverable
+redirect	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def redirect
+redirect_url	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def redirect_url
+regular_update	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    alias_method :regular_update
+regular_writer	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    alias_method :regular_writer
+remember_across_browsers	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :remember_across_browsers
+remember_cookie	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/rememberable.rb	      def remember_cookie
+remember_expired?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	      def remember_expired?
+remember_expires_at	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	      def remember_expires_at
+remember_for	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :remember_for
+remember_key	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/rememberable.rb	      def remember_key
+remember_me	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	        attr_accessor :remember_me
+remember_me!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	      def remember_me!(extend_period=false)
+remember_me?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/hooks/rememberable.rb	      def remember_me?
+remember_me?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/rememberable.rb	      def remember_me?
+remember_me?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/token_authenticatable.rb	      def remember_me?
+remember_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	        def remember_token
+rememberable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/schema.rb	    def rememberable
+render_with_scope	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/scoped_views.rb	      def render_with_scope(action, options={})
+request	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	  def request
+request	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/helpers_test.rb	  def request
+request_forgot_password	/home/hassane/ruby_apps/devise-1.1.5/test/integration/recoverable_test.rb	  def request_forgot_password(&block)
+require_no_authentication	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	      def require_no_authentication
+resend_confirmation_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	      def resend_confirmation_token
+resend_unlock_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	      def resend_unlock_token
+reset_authentication_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/token_authenticatable.rb	      def reset_authentication_token
+reset_authentication_token!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/token_authenticatable.rb	      def reset_authentication_token!
+reset_password	/home/hassane/ruby_apps/devise-1.1.5/test/integration/recoverable_test.rb	  def reset_password(options={}, &block)
+reset_password!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/recoverable.rb	      def reset_password!(new_password, new_password_confirmation)
+reset_password_by_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/recoverable.rb	        def reset_password_by_token(attributes={})
+reset_password_instructions	/home/hassane/ruby_apps/devise-1.1.5/app/mailers/devise/mailer.rb	  def reset_password_instructions(record)
+reset_password_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/recoverable.rb	        def reset_password_token
+reset_session	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    def reset_session
+reset_session!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	  def reset_session!
+resource	/home/hassane/ruby_apps/devise-1.1.5/app/mailers/devise/mailer.rb	  attr_reader :devise_mapping, :resource
+resource	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	      def resource
+resource=	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	      def resource=(new_resource)
+resource_class	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	      def resource_class
+resource_name	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	      def resource_name
+respond	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def respond
+routes	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    def routes
+salt	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/base.rb	      def self.salt(stretches)
+salt	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/bcrypt.rb	      def self.salt(stretches)
+scope	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def scope
+scope_name	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	      alias :scope_name
+scoped_views	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :scoped_views
+scoped_views=	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/scoped_views.rb	        def scoped_views=(value)
+scoped_views?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/scoped_views.rb	        def scoped_views?
+script_name	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/helpers_test.rb	  def script_name
+secure_digest	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/sha1.rb	      def self.secure_digest(*tokens)
+secure_digest	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/encryptors/sha512.rb	      def self.secure_digest(*tokens)
+send_confirmation_instructions	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	        def send_confirmation_instructions(attributes={})
+send_confirmation_instructions	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	      def send_confirmation_instructions
+send_reset_password_instructions	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/recoverable.rb	        def send_reset_password_instructions(attributes={})
+send_reset_password_instructions	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/recoverable.rb	      def send_reset_password_instructions
+send_unlock_instructions	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	        def send_unlock_instructions(attributes={})
+send_unlock_instructions	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	      def send_unlock_instructions
+serialize	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	  def serialize(record)
+serialize_from_cookie	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	        def serialize_from_cookie(id, remember_token)
+serialize_into_cookie	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/rememberable.rb	        def serialize_into_cookie(record)
+set_flash_message	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/internal_helpers.rb	      def set_flash_message(key, kind)
+setup	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  def self.setup
+setup	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/helpers_test.rb	  def setup
+setup	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/internal_helpers_test.rb	  def setup
+setup	/home/hassane/ruby_apps/devise-1.1.5/test/integration/authenticatable_test.rb	  def setup
+setup	/home/hassane/ruby_apps/devise-1.1.5/test/mailers/confirmation_instructions_test.rb	  def setup
+setup	/home/hassane/ruby_apps/devise-1.1.5/test/mailers/reset_password_instructions_test.rb	  def setup
+setup	/home/hassane/ruby_apps/devise-1.1.5/test/mailers/unlock_instructions_test.rb	  def setup
+setup	/home/hassane/ruby_apps/devise-1.1.5/test/models/confirmable_test.rb	  def setup
+setup	/home/hassane/ruby_apps/devise-1.1.5/test/models/lockable_test.rb	  def setup
+setup	/home/hassane/ruby_apps/devise-1.1.5/test/models/recoverable_test.rb	  def setup
+setup_controller_for_warden	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/test_helpers.rb	    def setup_controller_for_warden 
+setup_mail	/home/hassane/ruby_apps/devise-1.1.5/app/mailers/devise/mailer.rb	  def setup_mail(record, action)
+setup_mailer	/home/hassane/ruby_apps/devise-1.1.5/test/support/helpers.rb	  def setup_mailer
+show	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/confirmations_controller.rb	  def show
+show	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/unlocks_controller.rb	  def show
+show_readme	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/install_generator.rb	      def show_readme
+sign_in	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	      def sign_in(resource_or_scope, resource=nil)
+sign_in	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/test_helpers.rb	    def sign_in(resource_or_scope, resource=nil)
+sign_in_and_redirect	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	      def sign_in_and_redirect(resource_or_scope, resource=nil)
+sign_in_as_admin	/home/hassane/ruby_apps/devise-1.1.5/test/support/integration.rb	  def sign_in_as_admin(options={}, &block)
+sign_in_as_new_user_with_http	/home/hassane/ruby_apps/devise-1.1.5/test/integration/http_authenticatable_test.rb	    def sign_in_as_new_user_with_http(username="user@test.com", password="123456")
+sign_in_as_new_user_with_token	/home/hassane/ruby_apps/devise-1.1.5/test/integration/token_authenticatable_test.rb	    def sign_in_as_new_user_with_token(options = {})
+sign_in_as_user	/home/hassane/ruby_apps/devise-1.1.5/test/support/integration.rb	  def sign_in_as_user(options={}, &block)
+sign_out	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	      def sign_out(resource_or_scope)
+sign_out	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/test_helpers.rb	    def sign_out(resource_or_scope)
+sign_out_all_scopes	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :sign_out_all_scopes
+sign_out_all_scopes	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	      def sign_out_all_scopes
+sign_out_and_redirect	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	      def sign_out_and_redirect(resource_or_scope)
+signed_cookie	/home/hassane/ruby_apps/devise-1.1.5/test/integration/rememberable_test.rb	  def signed_cookie(key)
+signed_in?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	      def signed_in?(scope)
+signing_out?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/path_checker.rb	    def signing_out?
+since	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/validatable.rb	          raise "Could not use :validatable module since 
+singular	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    attr_reader :singular, :plural, :path, :controllers, :path_names, :class_name
+skip_confirmation!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	      def skip_confirmation!
+store	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    alias_method :store
+store_location!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def store_location!
+store_translations	/home/hassane/ruby_apps/devise-1.1.5/test/support/helpers.rb	  def store_translations(locale, translations, &block)
+stored_location_for	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	      def stored_location_for(resource_or_scope)
+strategies	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    def strategies
+stretches	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :stretches
+stringify_keys	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    def stringify_keys; 
+stringify_keys!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    def stringify_keys!; 
+succeeded?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/hooks/rememberable.rb	      def succeeded?
+success!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/hooks/rememberable.rb	      def success!(resource)
+swap	/home/hassane/ruby_apps/devise-1.1.5/test/support/helpers.rb	  def swap(object, new_values)
+swap_with_encryptor	/home/hassane/ruby_apps/devise-1.1.5/test/models/database_authenticatable_test.rb	  def swap_with_encryptor(klass, encryptor, options={})
+symbolize_keys	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    def symbolize_keys; 
+symbolized_path_parameters	/home/hassane/ruby_apps/devise-1.1.5/test/controllers/helpers_test.rb	  def symbolized_path_parameters
+teardown	/home/hassane/ruby_apps/devise-1.1.5/test/integration/authenticatable_test.rb	  def teardown
+template_paths	/home/hassane/ruby_apps/devise-1.1.5/app/mailers/devise/mailer.rb	  def template_paths
+test	/home/hassane/ruby_apps/devise-1.1.5/test/support/test_silencer.rb	    def test(*args, &block); 
+timedout?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/timeoutable.rb	      def timedout?(last_access)
+timeout_in	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :timeout_in
+to	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/mapping.rb	    def to
+to_hash	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    def to_hash; 
+to_options!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    def to_options!; 
+token_authenticatable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/schema.rb	    def token_authenticatable(options={})
+token_authentication_key	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :token_authentication_key
+trackable	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/schema.rb	    def trackable
+translate	/home/hassane/ruby_apps/devise-1.1.5/app/mailers/devise/mailer.rb	  def translate(mapping, key)
+unless_confirmed	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/confirmable.rb	        def unless_confirmed
+unlock_access!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	      def unlock_access!
+unlock_access_by_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	        def unlock_access_by_token(unlock_token)
+unlock_in	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :unlock_in
+unlock_instructions	/home/hassane/ruby_apps/devise-1.1.5/app/mailers/devise/mailer.rb	  def unlock_instructions(record)
+unlock_strategy	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :unlock_strategy
+unlock_strategy_enabled?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	        def unlock_strategy_enabled?(strategy)
+unlock_token	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	        def unlock_token
+up	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/active_record/templates/migration.rb	  def self.up
+up	/home/hassane/ruby_apps/devise-1.1.5/test/rails_app/db/migrate/20100401102949_create_tables.rb	  def self.up
+update	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/passwords_controller.rb	  def update
+update	/home/hassane/ruby_apps/devise-1.1.5/app/controllers/devise/registrations_controller.rb	  def update
+update	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    def update(other_hash)
+update_tracked_fields!	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/trackable.rb	      def update_tracked_fields!(request)
+update_with_password	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	      def update_with_password(params={})
+use_default_scope=	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  def self.use_default_scope=(*)
+user	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/test_helpers.rb	      def user(*args)
+user	/home/hassane/ruby_apps/devise-1.1.5/test/mailers/confirmation_instructions_test.rb	  def user
+user	/home/hassane/ruby_apps/devise-1.1.5/test/mailers/reset_password_instructions_test.rb	  def user
+user	/home/hassane/ruby_apps/devise-1.1.5/test/mailers/unlock_instructions_test.rb	  def user
+using	/home/hassane/ruby_apps/devise-1.1.5/test/devise_test.rb	  test 'add new module using 
+valid?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def valid?
+valid?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/rememberable.rb	      def valid?
+valid_attributes	/home/hassane/ruby_apps/devise-1.1.5/test/support/helpers.rb	  def valid_attributes(attributes={})
+valid_controller?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def valid_controller?
+valid_for_authentication?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/authenticatable.rb	      def valid_for_authentication?
+valid_for_authentication?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/lockable.rb	      def valid_for_authentication?
+valid_for_http_auth?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def valid_for_http_auth?
+valid_for_params_auth?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def valid_for_params_auth?
+valid_params?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def valid_params?
+valid_password?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/models/database_authenticatable.rb	      def valid_password?(incoming_password)
+valid_password?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def valid_password?
+valid_request?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def valid_request?
+valid_request?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/token_authenticatable.rb	      def valid_request?
+valid_verb?	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def valid_verb?
+validate	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def validate(resource, &block)
+values_at	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/warden_compat.rb	    def values_at(*indices)
+verify_haml_existence	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/views_generator.rb	      def verify_haml_existence
+verify_haml_version	/home/hassane/ruby_apps/devise-1.1.5/lib/generators/devise/views_generator.rb	      def verify_haml_version
+visit_new_password_path	/home/hassane/ruby_apps/devise-1.1.5/test/integration/recoverable_test.rb	  def visit_new_password_path
+visit_user_confirmation_with_token	/home/hassane/ruby_apps/devise-1.1.5/test/integration/confirmable_test.rb	  def visit_user_confirmation_with_token(confirmation_token)
+visit_user_unlock_with_token	/home/hassane/ruby_apps/devise-1.1.5/test/integration/lockable_test.rb	  def visit_user_unlock_with_token(unlock_token)
+visit_with_option	/home/hassane/ruby_apps/devise-1.1.5/test/support/integration.rb	    def visit_with_option(given, default)
+warden	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  def self.warden(&block)
+warden	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/controllers/helpers.rb	      def warden
+warden	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def warden
+warden	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/test_helpers.rb	    def warden 
+warden	/home/hassane/ruby_apps/devise-1.1.5/test/support/integration.rb	  def warden
+warden_config	/home/hassane/ruby_apps/devise-1.1.5/lib/devise.rb	  mattr_accessor :warden_config
+warden_options	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/failure_app.rb	    def warden_options
+with_authentication_hash	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/strategies/authenticatable.rb	      def with_authentication_hash(hash)
+with_devise_exclusive_scope	/home/hassane/ruby_apps/devise-1.1.5/lib/devise/rails/routes.rb	      def with_devise_exclusive_scope(new_path, new_as) 
+yield_and_restore	/home/hassane/ruby_apps/devise-1.1.5/test/devise_test.rb	  def self.yield_and_restore
